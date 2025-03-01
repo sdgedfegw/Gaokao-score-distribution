@@ -1,2 +1,2 @@
 # Gaokao-score-distribution
-A repo of 796 Gaokao (Chinese SAT equivalent) score distributions from 2000 to 2021
+A repo of 1101 Gaokao (Chinese SAT equivalent) score distributions from 1996 to 2024.
